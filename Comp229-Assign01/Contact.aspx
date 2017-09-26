@@ -46,7 +46,7 @@
             </tr>
             <tr>
                 <td style="width: 327px">
-                    <asp:Button ID="SubmitB" runat="server" Text="Send Button" OnClick="SubmitB_Click" /><%--Fix a bug --%>
+                    <asp:Button ID="SubmitB" runat="server" Text="Send Button" OnClick="SubmitB_Click" />
                 </td>
             </tr>
             </table>
