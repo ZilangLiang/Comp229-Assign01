@@ -13,5 +13,10 @@ namespace Comp229_Assign01
         {
 
         }
+
+        protected void SubmitB_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("Default.aspx");
+        }
     }
 }
