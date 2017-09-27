@@ -13,15 +13,5 @@ namespace Comp229_Assign01
         {
 
         }
-
-        protected void transfer_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("About.aspx");
-        }
-
-        protected void transfertoc_Click(object sender, EventArgs e)
-        {
-            Response.Redirect("Contact.aspx");
-        }
     }
 }
