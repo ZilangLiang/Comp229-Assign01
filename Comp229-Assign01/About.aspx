@@ -30,5 +30,7 @@
     <li>Know a bit of Accounting</li>
     </ul>
     <h4>Former Position</h4>
-    <div>Graduated from Programming on 2018, and designed website for customers</div>
+    <div>Learning how to design a website and code as a student on 2017&2018</div>
+    <div>Designing websitre in Advertisement company on 2018</div>
+    <div>Developing a program with a team</div>
 </asp:Content>
