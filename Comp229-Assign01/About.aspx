@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="About" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="About.aspx.cs" Inherits="Comp229_Assign01.About" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <%-- About me Page--%>
     <h2>About me</h2>
 
     <p>My name is Zilang Liang. I am a student of Centennial College, and learning Software Development.</p>

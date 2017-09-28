@@ -1,6 +1,7 @@
 ﻿<%@ Page Title="Contact" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.cs" Inherits="Comp229_Assign01.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
+    <%--Contact Page--%>
 <h2><%: Title %></h2>
     <h3>Contact page</h3>
     <address>
@@ -46,7 +47,7 @@
             </tr>
             <tr>
                 <td style="width: 327px">
-                    <asp:Button ID="SubmitB" runat="server" Text="Send Button" OnClick="SubmitB_Click" />
+                    <asp:Button ID="SubmitB" runat="server" Text="Send Button" OnClick="SubmitB_Click" /><%--Transfer user to Home page--%>
                 </td>
             </tr>
             </table>
